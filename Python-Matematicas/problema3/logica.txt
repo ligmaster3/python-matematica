@@ -1,0 +1,7 @@
+Inicio
+leer n1,n2,n3 
+calcular la suma de n1+n2
+Calcular resultado = suma * n3
+Mostrar suma
+Mostrar resultado
+Fin

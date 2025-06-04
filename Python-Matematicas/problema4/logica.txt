@@ -1,0 +1,16 @@
+ Inicio
+    |
+    v
+Leer n1, n2, n3, n4
+    |
+    v
+calculo = (n1 / n2) + n3
+    |
+    v
+resultado = calculo * n4
+    |
+    v
+Mostrar resultado
+    |
+    v
+   Fin

@@ -1,0 +1,11 @@
+Inicio
+
+Mostrar mensaje de bienvenida
+  
+Leer temperatura en Celsius (temp1)
+  
+Calcular Fahrenheit: f = (temp1 * 1.8) + 32
+  
+Mostrar temperatura en Fahrenheit (f)
+
+Fin

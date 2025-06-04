@@ -1,0 +1,13 @@
+Inicio: Inicialización del programa
+
+Leer radio: Captura de entrada del usuario
+
+Validación: Verifica si el radio es positivo (flujo cíclico si no es válido)
+
+Cálculos: Volumen: Fórmula $\frac{4}{3} \pi r^{3}$
+
+Superficie: Fórmula $4 \pi r^{2}$
+
+Salida: Presentación de resultados con formato
+
+Fin: Terminación del proceso

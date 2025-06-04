@@ -1,0 +1,11 @@
+Inicio
+  
+Mostrar mensaje de bienvenida
+  
+Leer temperatura en Fahrenheit (temp1)
+  
+Calcular Celsius: c = 5 * (temp1 - 32) / 9
+  
+Mostrar temperatura en Celsius (c)
+  
+Fin

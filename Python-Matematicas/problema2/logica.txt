@@ -1,0 +1,4 @@
+Inicio
+ingresar la edad
+imprimir la edad ingresada
+![alt text](Captura de pantalla 2025-06-03 103021.png)

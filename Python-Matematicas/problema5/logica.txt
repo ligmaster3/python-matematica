@@ -1,0 +1,17 @@
+Inicio
+
+Mostrar mensaje de bienvenida
+  
+Leer n1
+  
+Leer n2
+  
+Leer n3
+  
+Leer n4
+  
+Calcular resultado = (n1 * n2) - (n3 * n4)
+  
+Mostrar resultado
+  
+Fin

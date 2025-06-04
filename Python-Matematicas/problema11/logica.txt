@@ -1,0 +1,27 @@
+Inicio
+  |
+  v
+Mostrar mensaje de bienvenida
+  |
+  v
+Leer largo
+  |
+  v
+Leer ancho
+  |
+  v
+Leer espesor
+  |
+  v
+Calcular volumen = largo * ancho * espesor
+  |
+  v
+Calcular superficie = 2 * (largo * ancho + largo * espesor + ancho * espesor)
+  |
+  v
+Mostrar volumen
+  |
+  v
+Mostrar superficie
+  |
+  v

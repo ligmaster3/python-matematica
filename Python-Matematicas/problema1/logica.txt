@@ -1,0 +1,7 @@
+Inicio: El proceso comienza.
+Ejecutar Código: Se inicia la ejecución del código.
+Usar la función print(): Se llama a la función print().
+Mostrar Mensaje: Se imprime el mensaje "Este es primer problema 2025 :" en la consola.
+Fin: El proceso termina.
+
+![alt text](Captura de pantalla 2025-06-03 102653.png)

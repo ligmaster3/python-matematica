@@ -1,0 +1,11 @@
+Iniciar.
+Mostrar mensaje de bienvenida.
+Leer el nombre y precio del primer producto.
+Leer el nombre y precio del segundo producto.
+Leer el nombre y precio del tercer producto.
+Calcular el subtotal sumando los tres precios.
+Calcular el IVA como el 7% del subtotal.
+Calcular el total sumando subtotal e IVA.
+Mostrar los nombres y precios de los productos.
+Mostrar el IVA, el subtotal y el total.
+Fin.
