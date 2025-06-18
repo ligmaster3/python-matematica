@@ -1,0 +1,18 @@
+rimero, importa el módulo math, que proporciona funciones matemáticas avanzadas
+mostramos en pantalla la practica
+
+Este programa es como un profesor amigable que te ayuda a practicar las tablas de multiplicar.
+
+El programa funciona así:
+1. Te hace 10 preguntas diferentes de multiplicación
+2. Cada pregunta es al azar, usando números del 1 al 10
+3. Te dice si acertaste o te equivocaste
+4. Si te equivocas, te muestra la respuesta correcta y te anima a seguir practicando
+
+Por ejemplo:
+- Te puede preguntar: "¿Cuánto es 7 x 8?"
+- Si respondes 56, te felicita
+- Si respondes otro número, te muestra la respuesta correcta y te anima
+
+La parte más divertida del código es cómo usa números aleatorios para hacer cada pregunta diferente. Es como tener un amigo que te ayuda a estudiar, ¡pero sin aburrirte con las mismas preguntas!
+

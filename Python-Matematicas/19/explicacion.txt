@@ -1,0 +1,15 @@
+Este programa es como un reloj mágico que convierte horas en días, horas y minutos.
+
+El programa funciona así:
+1. Te pide que ingreses una cantidad de tiempo en horas (puede ser con decimales)
+2. Calcula cuántos días completos hay en ese tiempo
+3. Calcula cuántas horas sobran después de los días
+4. Convierte los decimales restantes en minutos
+
+Por ejemplo:
+- Si ingresas 49.55 horas
+- El programa te dirá que son 2 días
+- 1 hora
+- Y 33 minutos
+
+La parte más útil del código es cómo separa el tiempo en sus partes. Es como si tomaras un montón de horas y las organizaras en días, horas y minutos, ¡como cuando organizas tus juguetes en cajas diferentes!

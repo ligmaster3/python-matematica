@@ -1,0 +1,15 @@
+Este programa muestra los salarios promedio en diferentes ciudades de Panamá.
+
+El programa funciona así:
+1. Muestra una lista de ciudades con números
+2. Te da dos opciones:
+   - Elegir una ciudad específica
+   - Dejar que el programa elija una ciudad al azar
+3. Muestra la ciudad y su salario promedio
+
+Por ejemplo:
+- Si eliges la opción 0, el programa seleccionará una ciudad al azar
+- Si eliges el número 1, verás el salario de Ciudad de Panamá
+- Si eliges el número 2, verás el salario de Penonomé
+
+La parte más interesante del código es cómo usa el módulo random para seleccionar una ciudad al azar y cómo verifica que la opción que elijas sea válida antes de mostrar la información. 

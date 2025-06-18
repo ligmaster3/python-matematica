@@ -1,0 +1,13 @@
+Este programa calcula cuándo dos relojes sonarán al mismo tiempo.
+
+El programa funciona así:
+1. Pide al usuario que ingrese cada cuántas horas suena cada reloj
+2. Busca el número más pequeño que divide exactamente a ambos intervalos
+3. Este número nos dice cuántas horas deben pasar para que los relojes coincidan
+
+Por ejemplo:
+- Si el reloj A suena cada 6 horas y el B cada 8 horas
+- El programa encontrará que 2 es el número que divide a ambos
+- Esto significa que los relojes coincidirán cada 2 horas
+
+La parte clave del código es el bucle que busca el número que divide a ambos intervalos. Usa el operador % (módulo) para verificar si un número divide exactamente a otro. 

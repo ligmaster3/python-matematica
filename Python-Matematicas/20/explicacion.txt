@@ -1,0 +1,14 @@
+Este programa simula un cajero automático que solo entrega billetes de $20 y $5.
+
+El programa funciona así:
+1. Pide que ingreses una cantidad de dinero (debe ser múltiplo de 5)
+2. Calcula cuántos billetes de $20 puede dar
+3. Con el resto, calcula cuántos billetes de $5 necesita
+
+Por ejemplo:
+- Si pides $95
+- El programa dará 4 billetes de $20 (4 × $20 = $80)
+- Y 3 billetes de $5 (3 × $5 = $15)
+- Total: $80 + $15 = $95
+
+La parte más importante del código es cómo usa la división entera (//) y el módulo (%) para calcular los billetes. Primero calcula los billetes de $20 y luego usa el resto para calcular los de $5.

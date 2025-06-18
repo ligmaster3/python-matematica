@@ -1,0 +1,13 @@
+Este programa implementa un sistema de planificación de desayunos con cálculo de calorías.
+
+El programa utiliza:
+- Una lista de alimentos comunes para el desayuno
+- Una lista paralela con las calorías por 100 gramos
+- Un sistema de selección múltiple de alimentos
+
+
+Estructura del programa:
+1. Definición de listas paralelas para alimentos y calorías
+2. Visualización del menú de opciones
+3. Proceso de selección de 4 alimentos
+4. Cálculo y presentación del resumen final

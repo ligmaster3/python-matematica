@@ -1,0 +1,25 @@
+Este programa simula una agencia de viajes básica utilizando listas en Python.
+
+El programa implementa:
+- Una lista de destinos turísticos populares
+- Una lista paralela con los precios correspondientes
+- Un sistema de selección de 3 destinos por el usuario
+
+Características principales:
+- Muestra un menú numerado de destinos con sus precios
+- Permite al usuario seleccionar 3 destinos diferentes
+- Calcula el precio total del viaje
+- Muestra un resumen detallado de la selección
+
+Estructura del programa:
+1. Definición de listas paralelas para destinos y precios
+2. Visualización del menú de opciones
+3. Proceso de selección de destinos
+4. Cálculo y presentación del resumen final
+
+El programa utiliza conceptos de:
+- Listas y listas paralelas
+- Bucles for
+- Entrada de usuario
+- Formateo de strings
+- Operaciones matemáticas básicas 

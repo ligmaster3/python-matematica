@@ -1,0 +1,25 @@
+Este programa implementa un sistema simple de consulta de notas de estudiantes.
+
+El programa utiliza:
+- Una lista de nombres de estudiantes
+- Una lista paralela con las notas correspondientes
+- Un sistema de búsqueda por nombre
+
+Características principales:
+- Muestra una lista numerada de todos los estudiantes
+- Permite buscar la nota de un estudiante específico
+- La búsqueda es insensible a mayúsculas/minúsculas
+- Muestra la nota del estudiante si se encuentra en la lista
+
+Estructura del programa:
+1. Definición de listas paralelas para estudiantes y notas
+2. Visualización de la lista de estudiantes con índices
+3. Entrada del nombre del estudiante a buscar
+4. Búsqueda y presentación de la nota correspondiente
+
+El programa utiliza conceptos de:
+- Listas y listas paralelas
+- Enumeración de elementos
+- Búsqueda en listas
+- Conversión de texto a minúsculas
+- Formateo de strings 

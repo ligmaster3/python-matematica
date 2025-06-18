@@ -1,0 +1,15 @@
+Este programa es como un asistente matemático que te ayuda a descomponer un vector en sus partes.
+
+El programa funciona así:
+1. Te pide que ingreses la longitud del vector (su magnitud)
+2. Te pide el ángulo en el que está el vector
+3. Calcula cuánto del vector va hacia arriba (componente vertical)
+4. Calcula cuánto del vector va hacia los lados (componente horizontal)
+
+Por ejemplo:
+- Si tienes un vector de longitud 5 y ángulo 30 grados
+- El programa calculará que va 2.5 unidades hacia arriba
+- Y 4.33 unidades hacia los lados
+
+La parte más interesante del código es cómo usa las funciones seno y coseno para "romper" el vector en sus partes. Es como si tomaras una flecha y la separaras en sus movimientos hacia arriba y hacia los lados.
+

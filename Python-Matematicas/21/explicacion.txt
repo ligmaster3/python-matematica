@@ -1,0 +1,13 @@
+Este programa ayuda a una floristería a calcular cuántos ramos iguales puede hacer con sus flores.
+
+El programa funciona así:
+1. Pide al usuario que ingrese cuántas rosas y claveles tiene
+2. Busca el número más grande que divide exactamente a ambas cantidades
+3. Este número representa cuántos ramos iguales se pueden hacer
+
+Por ejemplo:
+- Si tienes 12 rosas y 8 claveles
+- El programa encontrará que 4 es el número más grande que divide a ambos
+- Por lo tanto, podrás hacer 4 ramos iguales
+
+La parte más importante del código es el bucle que busca el número que divide a ambas cantidades. Esto se hace usando el operador % (módulo) que nos dice si un número divide exactamente a otro. 
