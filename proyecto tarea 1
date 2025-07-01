@@ -1,2 +1,11 @@
 Proyecto :
 #Crear un programa que calcule y presente en pantalla los términos de la sucesión 𝐴𝑛 = 𝑎𝑛 +7 desde n=0 hasta n=4 con a=2. Extra: crear una versión del programa donde a es un entero que se lee por teclado.
+
+# Solicitar valor de a al usuario
+a = int(input("Ingrese el valor de a (entero): "))
+
+print(f"\nSucesión Aₙ = a·n + 7 (con a = {a}):")
+for n in range(5):
+    num = a * n 
+    result = num + 7
+    print(f"A{n} = {a}*{n} + 7 = {result}")
